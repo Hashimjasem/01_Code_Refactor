@@ -99,7 +99,7 @@ p {
 
 
 
-.benefit-2 {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -110,18 +110,18 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-2 h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-2 img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-1 {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
